@@ -2,6 +2,7 @@
   "name": "soul-food",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://ayaan000.github.io/SoulFood",
   "type": "module",
   "scripts": {
     "dev": "vite",
